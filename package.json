@@ -1,0 +1,25 @@
+{
+  "name": "get-mouse-coords",
+  "version": "1.0.0",
+  "description": "Get mouse coords",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node main.ts"
+  },
+  "author": "ArviX#8443",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "ts-node": "latest",
+    "typescript": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordAlex2015/get-mouse-coords.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LordAlex2015/get-mouse-coords/issues"
+  },
+  "homepage": "https://github.com/LordAlex2015/get-mouse-coords#readme"
+}
